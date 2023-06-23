@@ -50,7 +50,7 @@ WScrape provides a command-line interface to interact with its features. Here ar
 
 To run the program, execute the following command:
 ```
-$ python wscrape.py
+$ python3 wscrape.py
 
 ```
 Note: Follow the prompts and enter the required information to perform the desired action.
